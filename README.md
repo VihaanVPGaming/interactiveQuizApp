@@ -4,7 +4,7 @@
 
 To install the Interactive Quiz App, follow these steps:
 
-1. Download the ZIP file containing the project from the repository.
+1. Download the ZIP file containing the project from the repository's releases.
 
 2. Extract the ZIP file to a directory of your choice on your local machine.
 
